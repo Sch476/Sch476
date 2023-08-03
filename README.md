@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayantan Choudhury</h1>
 <h3 align="center">I am a Front - End Developer, Open Source Contributor and a Software Tester</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sch476&theme=monokai" alt="sch476" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sch476" alt="sch476" /></a> </p>
 
 - 🌱 I’m currently learning **DB, React and DSA**
 
