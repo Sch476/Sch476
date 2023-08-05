@@ -1,7 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sayantan Choudhury</h1>
 <h3 align="center">I am a Front - End Developer, Open Source Contributor and a Software Tester</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sch476" alt="sch476" /></a> </p>
+<p align="center">
+  <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="300" alt="Profile Picture"/>
+</p>
+
+<div align="center"> <!-- Added a div to center align the trophies -->
+  <p> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=sch476" alt="sch476" />
+    </a>
+  </p>
+</div>
+
+<!-- Rest of your content remains unchanged -->
+
 
 - 🌱 I’m currently learning **DB, React and DSA**
 
