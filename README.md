@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayantan Choudhury</h1>
-<h3 align="center">I am a Front - End Developer, Open Source Contributor and a Software Tester</h3>
+<h3 align="center">I am a Front - End Developer, Open Source Contributor and a Software Tester </h3>
 
 
 <p align="center">
