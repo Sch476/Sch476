@@ -28,3 +28,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sch476&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+#### 🎖️ Badges
+[![An image of @sch476's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sch476)](https://holopin.io/@sch476)
