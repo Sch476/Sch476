@@ -21,6 +21,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sch476&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 [![Sch476's GitHub | Stats](https://stats.quine.sh/Sch476/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sch476)
+[![Sch476's GitHub | Dependencies](https://stats.quine.sh/Sch476/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sch476)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sch476&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
@@ -30,3 +31,4 @@
 
 #### 🎖️ Badges
 [![An image of @sch476's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sch476)](https://holopin.io/@sch476)
+
